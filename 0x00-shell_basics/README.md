@@ -8,3 +8,4 @@
 - ls -na is used to display current directory contents,long format,with user and group IDs displayed numerically,and hidden files <br/>
 - mkdir is used to make a new directory <br/>
 - mv is use to move and rename files<br/> it is used in this format:<br/> <code>mv oldname newname</code> that is to rename <br/>and to move <code>mv filetobemoved directorytobemovedto</code>
+- rm is used to delete file and is to be used like this <br/> <code>rm filename</code>
