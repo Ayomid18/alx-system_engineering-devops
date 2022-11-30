@@ -10,3 +10,4 @@
 - mv is use to move and rename files<br/> it is used in this format:<br/> <code>mv oldname newname</code> that is to rename <br/>and to move <code>mv filetobemoved directorytobemovedto</code>
 - rm is used to delete file and is to be used like this <br/> <code>rm filename</code> <br/> and to delete a directory <code>rm -r dirname</code> or <code>rmdir dirname</code>
 - cd - is used to change the working directory to the previous one
+- file is used to print tht type of file a file is
