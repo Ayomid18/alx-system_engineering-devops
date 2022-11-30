@@ -1,4 +1,4 @@
-#Shell basics#
+**Shell basics**
 
 -pwd is used to print current working directory<br/>
 -ls is used to list the contents in current directory<br/>
